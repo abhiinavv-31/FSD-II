@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import SinglePageApp from './components/Spa'
+import SinglePageApp from './Spa'
 
 
 function App() {
